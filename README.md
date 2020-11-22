@@ -2,11 +2,11 @@
 
 ## Contents
 
-0. [Program language]
-1. [Stack technology]
-2. [Integrated Development Environment]
-3. [Project builder]
-4. [Support languages]
+0. #### Program language
+1.  ### Stack technology
+2.  #### Integrated Development Environment
+3. Project builder
+4. Support languages
 
 
 ### Kotlin
